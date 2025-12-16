@@ -181,7 +181,7 @@ The tool assumes infrastructure literacy and does not target beginners.
 ## 8. Differentiation
 
 | Existing Tools | PreApply |
-|---------------|----------|
+|----------------|----------|
 | Show diffs | Explain consequences |
 | Detect syntax errors | Detect system risk |
 | Reactive | Preventative |
