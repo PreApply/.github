@@ -1,5 +1,8 @@
 # PreApply
 
+> **Pre-apply risk analysis for infrastructure changes**  
+> A local, deterministic risk analysis engine that helps engineers understand the real‑world impact of infrastructure changes before they reach production — with AI‑powered explanations, not AI guesses.
+
 ## 1. Purpose
 
 Modern infrastructure failures are rarely caused by syntax errors. They are caused by unintended blast radius, hidden coupling, and poor timing of otherwise‑valid changes. Existing tools tell engineers what will change, but not what could break.
